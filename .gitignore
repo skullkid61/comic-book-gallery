@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/ComicBookGallery/.vs/ComicBookGallery
+/src/ComicBookGallery/bin
+/src/ComicBookGallery/obj/Debug
+/src/ComicBookGallery/packages
