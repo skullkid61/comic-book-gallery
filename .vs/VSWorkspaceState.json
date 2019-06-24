@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\ComicBookGallery",
+    "\\src\\ComicBookGallery\\Controllers",
+    "\\src\\ComicBookGallery\\Views",
+    "\\src\\ComicBookGallery\\Views\\ComicBooks",
+    "\\src\\ComicBookGallery\\Views\\Home",
+    "\\src\\ComicBookGallery\\Views\\Shared"
+  ],
+  "SelectedNode": "\\src\\ComicBookGallery\\Views\\ComicBooks\\Detail.cshtml",
+  "PreviewInSolutionExplorer": false
+}
